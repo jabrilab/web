@@ -10,8 +10,6 @@
 #  web: http://meren.org
 #  avatar: bio-meren.jpg
 #  email: a.murat.eren@gmail.com
-#  twitter: merenbey
-#  github: meren
 #  linkedin: meren
 #  orcid: 0000-0001-9013-4827
 #  phone: +1-773-702-5935
@@ -66,6 +64,10 @@
   email: bjabri@uchicago.edu
   twitter: BanaJabri
   orcid: 0000-0001-7427-4424
+  web:
+  linkedin:
+  github:
+  youtube:
   phone: +1-773-702-5935
   fax: +1-773-702-2281
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, RM 9116, Chicago, IL 60637 USA
@@ -86,9 +88,13 @@
   name: Natalie Fillman
   tenure_start: 01/2000
   role: Post-doctoral Scientist
-  email: 
-  twitter: 
+  email:
+  twitter:
   orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-fillman.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "I am a medical graduate interested in clinical research in Inflammatory bowel disease. Focusing on a clinical study in Crohn’s disease."
@@ -102,9 +108,13 @@
   name: Megan Borregard
   tenure_start: 01/2000
   role: Post-doctoral Scientist
-  email: 
-  twitter: 
+  email:
+  twitter:
   orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-borregard.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "I am interested in studying the regulation of effector function in human tissue resident memory T cells"
@@ -112,16 +122,20 @@
     - title: Post-doctoral Scientist
       inst: The Department of Medicine at the University of Chicago
       inst_link: http://medicine.uchicago.edu/
-      
- 
+
+
 - alias: sangani
   official: True
   name: Kishan Sangani
   tenure_start: 01/2000
   role: Post-doctoral Scientist
-  email: 
-  twitter: 
+  email:
+  twitter:
   orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-sangani.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "I am interested in understanding the consequences of age-associated somatic mutations in the hematopoietic system. I use murine models and patient samples to study how host-microbe interactions may impact progression towards malignant states secondary to these somatic mutations."
@@ -129,16 +143,20 @@
     - title: Post-doctoral Scientist
       inst: The Department of Medicine at the University of Chicago
       inst_link: http://medicine.uchicago.edu/
- 
- 
+
+
 - alias: mayassi
   official: True
-  name: Toufic Mayassi 
+  name: Toufic Mayassi
   tenure_start: 01/2000
   role: Post-doctoral Scientist
-  email: 
-  twitter: 
+  email:
+  twitter:
   orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-mayassi.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "I am interested in using systems approaches to answer basic immunology questions in the human setting. More specifically, I am working on better understanding tissue-resident immune responses using celiac disease as a model."
@@ -146,16 +164,20 @@
     - title: Post-doctoral Scientist
       inst: The Department of Medicine at the University of Chicago
       inst_link: http://medicine.uchicago.edu/
- 
- 
+
+
 - alias: shaw
   official: True
   name: Dustin Shaw
   tenure_start: 01/2000
   role: Post-doctoral Scientist
-  email: 
-  twitter: 
+  email:
+  twitter:
   orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-shaw.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "I am interested in the differences in the inflammation observed in inflammatory bowel disease and primary sclerosing cholangitis, specifically as it relates to the development of colorectal cancer. We are taking a multi-“omics” approach, which includes transcriptomics, metagenomics, flow cytometry, and other assays."
@@ -163,16 +185,20 @@
     - title: Post-doctoral Scientist
       inst: The Department of Medicine at the University of Chicago
       inst_link: http://medicine.uchicago.edu/
- 
- 
+
+
 - alias: dinardi
   official: True
   name: Nick DiNardi
   tenure_start: 01/2000
   role: Post-doctoral Scientist
-  email: 
-  twitter: 
+  email:
+  twitter:
   orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-blank-male.png
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "I am a graduate student interested in combining basic science and clinical research to answer questions on Inflammatory Bowel Disease and Celiac’s Disease in applicable ways."
@@ -180,16 +206,20 @@
     - title: Post-doctoral Scientist
       inst: The Department of Medicine at the University of Chicago
       inst_link: http://medicine.uchicago.edu/
- 
- 
+
+
 - alias: malik
   official: True
   name: Ankit Malik
   tenure_start: 01/2000
   role: Post-doctoral Scientist
-  email: 
-  twitter: 
+  email:
+  twitter:
   orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-malik.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "Intestinal epithelial cells are not only the targets for destruction during autoimmunity but are immunologically active and can orchestrate immune responses. I am studying how epithelial cells react to pathogens, commensals and environmental agents, and how that affects local and distal immunes responses."
@@ -197,16 +227,20 @@
     - title: Post-doctoral Scientist
       inst: The Department of Medicine at the University of Chicago
       inst_link: http://medicine.uchicago.edu/
- 
- 
+
+
 - alias: ernest
   official: True
   name: Jordan Ernest
   tenure_start: 01/2000
   role: Post-doctoral Scientist
-  email: 
-  twitter: 
+  email:
+  twitter:
   orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-ernest.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "I am interested in ways that the immune system supports tissue function and homeostasis outside of eliminating pathogens, such as the role it plays in regulating metabolic homeostasis, thermogenesis, and tissue repair."
@@ -214,15 +248,19 @@
     - title: Post-doctoral Scientist
       inst: The Department of Medicine at the University of Chicago
       inst_link: http://medicine.uchicago.edu/
- 
+
 - alias: wang
   official: True
   name: Anni Wang
   tenure_start: 01/2000
   role: Post-doctoral Scientist
-  email: 
-  twitter: 
+  email:
+  twitter:
   orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-wang.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "I don't have a research statement."
@@ -231,15 +269,19 @@
       inst: The Department of Medicine at the University of Chicago
       inst_link: http://medicine.uchicago.edu/
 
- 
+
 - alias: franzen
   official: True
   name: Carrie Franzen
   tenure_start: 01/2000
   role: Post-doctoral Scientist
-  email: 
-  twitter: 
+  email:
+  twitter:
   orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-franzen.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "I am interested in understanding the pathogenesis and predicting treatment response in patients with inflammatory bowel disease using multi-parametric flow cytometry."
@@ -247,16 +289,20 @@
     - title: Post-doctoral Scientist
       inst: The Department of Medicine at the University of Chicago
       inst_link: http://medicine.uchicago.edu/
- 
- 
+
+
 - alias: fuessel
   official: True
   name: Jessika Fuessel
   tenure_start: 01/2000
   role: Post-doctoral Scientist
   email: ju.fuessel@uchicago.edu
-  twitter: 
+  twitter:
   orcid: 0000-0002-4210-2318
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-fuessel.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "My aim is to understand the fate and impact of microbial metabolites within the host organisms. I am especially interested in the relationship of inflammatory bowel disease and the nature of microbially metabolites produced in the small intestine."
@@ -264,16 +310,20 @@
     - title: Post-doctoral Scientist
       inst: The Department of Medicine at the University of Chicago
       inst_link: http://medicine.uchicago.edu/
- 
- 
+
+
 - alias: sharma
   official: True
   name: Deepika Sharma
   tenure_start: 01/2000
   role: Post-doctoral Scientist
-  email: 
-  twitter: 
+  email:
+  twitter:
   orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-sharma.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "I am interested in the concept of “immune- dictation”, processes such as priming, polarization and tolerance that mold the inflammatory response during homeostatic and inflammatory processes. How these processes are engaged within the gut mucosa to set the immune-tone, and impact both local and distal inflammation form the foundation for my research."
@@ -281,16 +331,20 @@
     - title: Post-doctoral Scientist
       inst: The Department of Medicine at the University of Chicago
       inst_link: http://medicine.uchicago.edu/
- 
+
 
 - alias: voisine
   official: True
   name: Jordan Voisine
   tenure_start: 01/2000
   role: Post-doctoral Scientist
-  email: 
-  twitter: 
+  email:
+  twitter:
   orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-voisine.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "My research interests lie in uncovering the molecular mechanisms that lead to and drive autoimmunity. I am currently studying the pathogenesis of Celiac Disease, an autoimmune-like disorder of the small intestine."
@@ -305,10 +359,14 @@
   name: Valentina Discepolo
   tenure_start: 01/2000
   role: Post-doctoral Scientist
-  email: 
+  email:
   linkedin: valentina-discepolo
-  twitter: 
+  twitter:
   orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-discepolo.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "I am a physician scientist with an expertise in gastroenterology and mucosal immunology. Understanding the origin of autoimmune processes is my main interest. My work in Bana's lab aims at dissecting the interplay between environmental and genetic factors in triggering inflammatory responses in the context of celiac disease. Ultimately, this will help designing new personalized preventive and therapeutic strategies for patients at risk to develop autoimmune disorders."
@@ -323,9 +381,13 @@
   name: Ariel Halper Stromberg
   tenure_start: 01/2000
   role: Post-doctoral Scientist
-  email: 
-  twitter: 
+  email:
+  twitter:
   orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-stromberg.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "The causes of inflammatory bowel disease (IBD) remain incompletely understood, but environment factors, host genetics, and the immune system are known to play important roles. My work investigates the underlying immune pathways that drive IBD pathogenesis with a goal of exploiting these pathways to develop new diagnostic tools and therapies."
@@ -340,9 +402,13 @@
   name: Anita Kowalczyk
   tenure_start: 01/2000
   role: Post-doctoral Scientist
-  email: 
-  twitter: 
+  email:
+  twitter:
   orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-kowalczyk.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "I am interested in how translocation of gut resident bacteria impacts mucosal immunity. I’m also studying the contribution of immunoglobulin A to shaping the intestinal immune response."
@@ -357,9 +423,13 @@
   name: Zachary M Earley
   tenure_start: 01/2000
   role: Post-doctoral Scientist
-  email: 
-  twitter: 
+  email:
+  twitter:
   orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-earley.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "I interested in studying host microbe interactions in the context of homeostasis and inflammation"
@@ -374,8 +444,12 @@
   tenure_start: 01/2000
   role: Post-doctoral Scientist
   email: wioletta.lisicka@gmail.com
-  twitter: 
+  twitter:
   orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
   avatar: bio-blank-female.png
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
   bio: "I am interested in Host-microbe interactions in autoimmune diseases"
@@ -404,6 +478,10 @@
   github: meren
   linkedin: meren
   orcid: 0000-0001-9013-4827
+  web:
+  linkedin:
+  github:
+  youtube:
   phone: +1-773-702-5935
   fax: +1-773-702-2281
   skype: a.murat.eren
