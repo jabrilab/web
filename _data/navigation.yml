@@ -1,0 +1,18 @@
+# Site navigation links
+
+- title: Research
+  url: /research/
+  style: "color: #9e161a;"
+
+- title: People
+  url: /people/
+
+- title: Pubs
+  url: /publications/
+
+- title: Opportunities
+  url: /opportunities/
+
+- title: Blog
+  url: /posts/
+  style: "color: #5bab87;"

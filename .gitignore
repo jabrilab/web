@@ -1,0 +1,16 @@
+# the local changes shall not show up in the status list
+_config.yml
+
+# platform dependent python byte code files.
+*.pyc
+
+# temporary vi files.
+*.sw*
+
+#nonsense
+*DS_Store
+*ignore*
+*~
+.sass-cache
+_site
+.jekyll-metadata
