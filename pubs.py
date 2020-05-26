@@ -179,7 +179,7 @@ class Publications:
 
     def store_markdown_output_for_pubs(self, output_file_path):
         # years = ''.join(['<a href="#%s"><span class="category-item">%s <small>(%d)</small></span></a>' % (y, y, len(self.pubs_dict[y])) for y in sorted(list(self.pubs_dict.keys()), reverse=True)])
-        years = ''.join(['<a href="#%s"><span class="category-item">%s</span></a>' % (y, y) for y in sorted(list(self.pubs_dict.keys()), reverse=True)])
+        years = ''.join(['<a href="#%s"><span class="category-item">%s</span></a> ' % (y, y) for y in sorted(list(self.pubs_dict.keys()), reverse=True)])
 
         output_file = open(output_file_path, 'w')
         W = lambda s: output_file.write(s + '\n')
