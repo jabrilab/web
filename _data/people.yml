@@ -138,7 +138,7 @@
   youtube:
   avatar: bio-sangani.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
-  bio: "I am interested in understanding the consequences of age-associated somatic mutations in the hematopoietic system. I use murine models and patient samples to study how host-microbe interactions may impact progression towards malignant states secondary to these somatic mutations."
+  bio: "I aaaaaaaaaaaaaaaam interested in understanding the consequences of age-associated somatic mutations in the hematopoietic system. I use murine models and patient samples to study how host-microbe interactions may impact progression towards malignant states secondary to these somatic mutations."
   affiliations:
     - title: Post-doctoral Scientist
       inst: The Department of Medicine at the University of Chicago
@@ -461,31 +461,3 @@
 ####################################################################################
 # Previous members.
 ####################################################################################
-
-- alias: meren
-  nick_name: Meren
-  official: True
-  name: A. Murat Eren (Meren)
-  tenure_start: 10/2015
-  tenure_end: 10/2016
-  role: Graduate Student
-  twitter: merenbey
-  github: meren
-  web: http://meren.org
-  avatar: bio-meren.jpg
-  email: a.murat.eren@gmail.com
-  twitter: merenbey
-  github: meren
-  linkedin: meren
-  orcid: 0000-0001-9013-4827
-  web:
-  linkedin:
-  github:
-  youtube:
-  phone: +1-773-702-5935
-  fax: +1-773-702-2281
-  skype: a.murat.eren
-  current_info: an Assistant Professor at the University of Chicago, Medicine, doing more computational things.
-  contributions: During his short tenure with us, he tried to develop a fly model for asthma by making them inhale helium gas, which failed notoriously
-  bio: "I am a computer scientist with a deep appreciation for the complexity of life. I design algorithms and experiments to better understand microbes and their ecology."
-
