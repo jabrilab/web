@@ -117,7 +117,7 @@
   youtube:
   avatar: bio-borregard.jpg
   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
-  bio: "I am interested in studying the regulation of effector function in human tissue resident memory T cells"
+  bio: "Research Statement: I am interested in studying the regulation of effector function in human tissue resident memory T cells."
   affiliations:
     - title: PhD student in Biophysical Sciences
       inst: The Department of Medicine at the University of Chicago
@@ -166,27 +166,6 @@
       inst_link: http://medicine.uchicago.edu/
 
 
-- alias: shaw
-  official: True
-  name: Dustin Shaw
-  tenure_start: 01/2000
-  role: MSTP Student
-  email: dgshaw@uchicago.edu
-  twitter:
-  orcid: 0000-0000-0000-0000
-  web:
-  linkedin:
-  github:
-  youtube:
-  avatar: bio-shaw.jpg
-  address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
-  bio: "I am interested in the differences in the inflammation observed in inflammatory bowel disease and primary sclerosing cholangitis, specifically as it relates to the development of colorectal cancer. We are taking a multi-“omics” approach, which includes transcriptomics, metagenomics, flow cytometry, and other assays."
-  affiliations:
-    - title: MSTP Student
-      inst: The Department of Medicine at the University of Chicago
-      inst_link: http://medicine.uchicago.edu/
-
-
 - alias: dinardi
   official: True
   name: Nick DiNardi
@@ -225,27 +204,6 @@
   bio: "Intestinal epithelial cells are not only the targets for destruction during autoimmunity but are immunologically active and can orchestrate immune responses. I am studying how epithelial cells react to pathogens, commensals and environmental agents, and how that affects local and distal immunes responses."
   affiliations:
     - title: Post-doctoral Scientist
-      inst: The Department of Medicine at the University of Chicago
-      inst_link: http://medicine.uchicago.edu/
-
-
-- alias: ernest
-  official: True
-  name: Jordan Ernest
-  tenure_start: 01/2000
-  role: Lab Technician
-  email: jernest1@medicine.bsd.uchicago.edu
-  twitter:
-  orcid: 0000-0000-0000-0000
-  web:
-  linkedin:
-  github:
-  youtube:
-  avatar: bio-ernest.jpg
-  address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
-  bio: "I am interested in ways that the immune system supports tissue function and homeostasis outside of eliminating pathogens, such as the role it plays in regulating metabolic homeostasis, thermogenesis, and tissue repair."
-  affiliations:
-    - title: Lab Technician
       inst: The Department of Medicine at the University of Chicago
       inst_link: http://medicine.uchicago.edu/
 
@@ -377,27 +335,6 @@
       inst_link: http://medicine.uchicago.edu/
 
 
-- alias: kowalczyk
-  official: True
-  name: Anita Kowalczyk
-  tenure_start: 01/2000
-  role: Post-doctoral Scientist (??)
-  email:
-  twitter:
-  orcid: 0000-0000-0000-0000
-  web:
-  linkedin:
-  github:
-  youtube:
-  avatar: bio-kowalczyk.jpg
-  address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
-  bio: "I am interested in how translocation of gut resident bacteria impacts mucosal immunity. I’m also studying the contribution of immunoglobulin A to shaping the intestinal immune response."
-  affiliations:
-    - title: Post-doctoral Scientist (??)
-      inst: The Department of Medicine at the University of Chicago
-      inst_link: http://medicine.uchicago.edu/
-
-
 - alias: earley
   official: True
   name: Zachary M Earley
@@ -484,5 +421,68 @@
   bio: "I don't have a research statement."
   affiliations:
     - title: Lab Manager
+      inst: The Department of Medicine at the University of Chicago
+      inst_link: http://medicine.uchicago.edu/
+
+- alias: ernest
+  official: True
+  name: Jordan Ernest
+  tenure_start: 01/2000
+  tenure_end: 01/2000
+  role: Lab Technician
+  email: jernest1@medicine.bsd.uchicago.edu
+  twitter:
+  orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
+  avatar: bio-ernest.jpg
+  address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
+  bio: "I am interested in ways that the immune system supports tissue function and homeostasis outside of eliminating pathogens, such as the role it plays in regulating metabolic homeostasis, thermogenesis, and tissue repair."
+  affiliations:
+    - title: Lab Technician
+      inst: The Department of Medicine at the University of Chicago
+      inst_link: http://medicine.uchicago.edu/
+
+- alias: shaw
+  official: True
+  name: Dustin Shaw
+  tenure_start: 01/2000
+  tenure_end: 01/2000
+  role: MSTP Student
+  email: dgshaw@uchicago.edu
+  twitter:
+  orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
+  avatar: bio-shaw.jpg
+  address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
+  bio: "I am interested in the differences in the inflammation observed in inflammatory bowel disease and primary sclerosing cholangitis, specifically as it relates to the development of colorectal cancer. We are taking a multi-“omics” approach, which includes transcriptomics, metagenomics, flow cytometry, and other assays."
+  affiliations:
+    - title: MSTP Student
+      inst: The Department of Medicine at the University of Chicago
+      inst_link: http://medicine.uchicago.edu/
+
+- alias: kowalczyk
+  official: True
+  name: Anita Kowalczyk
+  tenure_start: 01/2000
+  tenure_end: 01/2000
+  role: Post-doctoral Scientist (??)
+  email:
+  twitter:
+  orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
+  avatar: bio-kowalczyk.jpg
+  address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
+  bio: "I am interested in how translocation of gut resident bacteria impacts mucosal immunity. I’m also studying the contribution of immunoglobulin A to shaping the intestinal immune response."
+  affiliations:
+    - title: Post-doctoral Scientist (??)
       inst: The Department of Medicine at the University of Chicago
       inst_link: http://medicine.uchicago.edu/
