@@ -31,6 +31,8 @@
 #
 # THIS IS AN EXAMPLE PAST MEMBER:
 #
+# When turning someone into an alumnus, add the following variables (see examples below): tenure_end, current_info, contributions
+#
 #- alias: alon
 #  nick_name: Alon
 #  tenure_start: 10/2016
@@ -141,27 +143,6 @@
   bio: "I am interested in understanding the consequences of age-associated somatic mutations in the hematopoietic system. I use murine models and patient samples to study how host-microbe interactions may impact progression towards malignant states secondary to these somatic mutations."
   affiliations:
     - title: MSTP Student
-      inst: The Department of Medicine at the University of Chicago
-      inst_link: http://medicine.uchicago.edu/
-
-
-- alias: mayassi
-  official: True
-  name: Toufic Mayassi
-  tenure_start: 01/2000
-  role: Broad Institute of MIT and Harvard // Past COI student and postdoc in her lab
-  email:
-  twitter:
-  orcid: 0000-0000-0000-0000
-  web:
-  linkedin:
-  github:
-  youtube:
-  avatar: bio-mayassi.jpg
-  address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
-  bio: "I am interested in using systems approaches to answer basic immunology questions in the human setting. More specifically, I am working on better understanding tissue-resident immune responses using celiac disease as a model."
-  affiliations:
-    - title: Broad Institute of MIT and Harvard // Past COI student and postdoc in her lab
       inst: The Department of Medicine at the University of Chicago
       inst_link: http://medicine.uchicago.edu/
 
@@ -378,6 +359,29 @@
 ####################################################################################
 # Previous members.
 ####################################################################################
+
+- alias: mayassi
+  official: True
+  name: Toufic Mayassi
+  tenure_start: 01/2000
+  tenure_end: 01/2021
+  current_info: a post-doctoral researcher at the <a href="https://www.broadinstitute.org/">Broad Insitute of MIT and Harvard</a>
+  contributions: During his sutdies in our group, Toufic used systems approaches to answer basic immunology questions in the human setting and worked on better understanding tissue-resident immune responses using celiac disease as a model
+  role: Graduate Student
+  email:
+  twitter:
+  orcid: 0000-0000-0000-0000
+  web:
+  linkedin:
+  github:
+  youtube:
+  avatar: bio-mayassi.jpg
+  address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, Chicago, IL 60637 USA
+  bio: "I am interested in using systems approaches to answer basic immunology questions in the human setting. More specifically, I am working on better understanding tissue-resident immune responses using celiac disease as a model."
+  affiliations:
+    - title: Broad Institute of MIT and Harvard // Past COI student and postdoc in her lab
+      inst: The Department of Medicine at the University of Chicago
+      inst_link: http://medicine.uchicago.edu/
 
 - alias: wang
   official: True
